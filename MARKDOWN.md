@@ -5,4 +5,7 @@ understanding of the star schema and ability to follow it, which I am
 experienced in due to having taken IS 361 in a previous semester. I 
 connected the tables based on the columns that they had in common, 
 following the links on the star schema that showed the various components
-of each table.
+of each table. Lastly, the decision to use "ORDER BY" was because otherwise
+the results did not match the expected output shown in the instructions. It 
+still doesn't match 100%, I tried other methods to get closer to the expected
+result but was unsuccessful so I removed those from the final version.
